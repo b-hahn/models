@@ -1,0 +1,5 @@
+model_checkpoint_path: "/tmp/cifar10_train/model.ckpt-99881"
+all_model_checkpoint_paths: "/tmp/cifar10_train/model.ckpt-1"
+all_model_checkpoint_paths: "/tmp/cifar10_train/model.ckpt-33394"
+all_model_checkpoint_paths: "/tmp/cifar10_train/model.ckpt-66601"
+all_model_checkpoint_paths: "/tmp/cifar10_train/model.ckpt-99881"
